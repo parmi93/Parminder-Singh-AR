@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Carta_Altimetrica" size="8100.000000 4050.000000" />
+    <ImageTarget name="Taj_Mahal" size="2792.000000 3511.000000" />
+    <ImageTarget name="Cattivissimo_Me_2" size="1280.000000 720.000000" />
+  </Tracking>
+</QCARConfig>
