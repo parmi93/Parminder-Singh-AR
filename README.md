@@ -26,4 +26,4 @@ Unity Engine phase...
 
 <img src="/Screenshot/Unity%20-%20Taj%20Mahal%20-%203.jpg" width="40%" /> <img src="/Screenshot/Unity%20-%20Taj%20Mahal%20-%204.jpg" width="40%" /> 
 
-[![](/Screenshot/unity_video.jpg)](https://youtu.be/4v1TUmxQ784)
+<a href="https://youtu.be/4v1TUmxQ784" target="_blank"><img src="/Screenshot/unity_video.jpg" /></a>
