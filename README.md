@@ -1,7 +1,7 @@
 # Parminder-Singh-AR
 This is an Android App of Augmented Reality that I developed with Blender + Unity + Vuforia for my exam matura.
 
-[Download APK](/APK/ParminderSingh-AR.apk) or [Download from Google Play](https://play.google.com/store/apps/details?id=it.itismarzotto.arsinghparminder93)
+[Download APK](https://github.com/parmi93/Parminder-Singh-AR/raw/master/APK/ParminderSingh-AR.apk) or [Download from Google Play](https://play.google.com/store/apps/details?id=it.itismarzotto.arsinghparminder93)
 
 [Download Targets](/Targets/target_app_ParminderSingh.pdf)
 
