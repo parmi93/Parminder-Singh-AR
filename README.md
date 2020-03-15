@@ -1,7 +1,7 @@
 # Parminder-Singh-AR
 This is an Android App of Augmented Reality that I developed in 6 months with Blender + Unity + Vuforia for my final diploma exam.
 
-[Download APK](https://github.com/parmi93/Parminder-Singh-AR/raw/master/APK/ParminderSingh-AR.apk) or [Download from Google Play](https://play.google.com/store/apps/details?id=it.itismarzotto.arsinghparminder93)
+[Download APK](../../raw/master/APK/ParminderSingh-AR.apk) or [Download from Google Play](https://play.google.com/store/apps/details?id=it.itismarzotto.arsinghparminder93)
 
 [Download Targets](/Targets/target_app_ParminderSingh.pdf)
 
@@ -19,7 +19,7 @@ Blender 3D models
 
 <img src="/Screenshot/Blender%20-%20Taj%20Mahal%20-%20Wireframe.jpg" width="40%" /> <img src="/Screenshot/Blender%20-%20Taj%20Mahal%20-%20Texture.jpg" width="40%" />
 
-[Download Blender 3D Elevation Map](../master/Assets/Modelli%203D/Carta%20Altimetrica/Carta%20Altimetrica.blend)
+[Download Blender 3D Elevation Map](../../raw/master/Assets/Modelli%203D/Carta%20Altimetrica/Carta%20Altimetrica.blend)
 
 <img src="/Screenshot/Blender%20-Mappa%20Altimetrica%20-%20Wireframe.jpg" width="40%" /> <img src="/Screenshot/Blender%20-%20Mappa%20Altimetrica%20-%20Texture.jpg" width="40%" />
 
