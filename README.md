@@ -3,7 +3,7 @@ This is an Android App of Augmented Reality that I developed in 6 months with Bl
 
 [Download APK](../../raw/master/APK/ParminderSingh-AR.apk) or [Download from Google Play](https://play.google.com/store/apps/details?id=it.itismarzotto.arsinghparminder93)
 
-[Download Targets](/Targets/target_app_ParminderSingh.pdf)
+[Download Targets](../../raw/master/Targets/target_app_ParminderSingh.pdf)
 
 Examples of use with a Android tablet
 ------
