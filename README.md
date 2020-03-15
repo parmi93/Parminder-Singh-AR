@@ -19,7 +19,7 @@ Blender 3D models
 
 <img src="/Screenshot/Blender%20-%20Taj%20Mahal%20-%20Wireframe.jpg" width="40%" /> <img src="/Screenshot/Blender%20-%20Taj%20Mahal%20-%20Texture.jpg" width="40%" />
 
-[Download Blender 3D Elevation Map](/Assets/Modelli%203D/Carta%20Altimetrica/Carta%20Altimetrica.blend)
+[Download Blender 3D Elevation Map](/raw/master/Assets/Modelli%203D/Carta%20Altimetrica/Carta%20Altimetrica.blend)
 
 <img src="/Screenshot/Blender%20-Mappa%20Altimetrica%20-%20Wireframe.jpg" width="40%" /> <img src="/Screenshot/Blender%20-%20Mappa%20Altimetrica%20-%20Texture.jpg" width="40%" />
 
