@@ -1,5 +1,5 @@
 # Parminder-Singh-AR
-This is an Android App of Augmented Reality that I developed in 6 months with Blender + Unity + Vuforia for my final diploma exam.
+This is an Android App of Augmented Reality that I developed in six months with Blender + Unity + Vuforia for my final diploma exam.
 
 [Download APK](../../raw/master/APK/ParminderSingh-AR.apk) or [Download from Google Play](https://play.google.com/store/apps/details?id=it.itismarzotto.arsinghparminder93)
 
